@@ -52,5 +52,6 @@ module.exports = {
     {
       resolve: `gatsby-plugin-styled-components`,
     },
+    'gatsby-plugin-netlify',
   ],
 }
