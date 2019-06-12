@@ -5,6 +5,6 @@ bio: >-
   planning, and building web applications. Between experiences from work and
   school I am able to take problems and turn them into solution using software.
   When I’m not writing code, I enjoy snowboarding and hitting breweries with
-  friends. Beer.
+  friends.
 ---
 
